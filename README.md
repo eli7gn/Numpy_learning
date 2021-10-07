@@ -1,4 +1,4 @@
-Numpy¶
+Numpy
 ======
 Welcome to Numpy a package widely used in the data science community. In this assignment, you will:
 Learn to use Numpy, a package which let us work efficiently with arrays and matrices in Python.
